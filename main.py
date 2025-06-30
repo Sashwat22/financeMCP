@@ -1,5 +1,5 @@
 def main():
-    print("Hello from weather!")
+    print("What sector do we look into!")
 
 
 if __name__ == "__main__":
